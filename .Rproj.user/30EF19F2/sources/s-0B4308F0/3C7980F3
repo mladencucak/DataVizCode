@@ -3,7 +3,7 @@
     "path": "~/Github/teaching/DataVizCode/DataVizCode/code/00Run_before _workshop.R",
     "project_path": "code/00Run_before _workshop.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3130252197",
     "contents": "",
     "dirty": false,
     "created": 1612260716205.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "12,0",
+        "cursorPosition": "16,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1612463071,
+    "lastKnownWriteTime": 1612464965,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1612463071383,
+    "last_content_update": 1612464965723,
     "read_only": false,
     "read_only_alternatives": []
 }
